@@ -1,6 +1,5 @@
-package framework.beans.config;
+package com.dyf.spring.framework.beans.config;
 
-import com.oracle.webservices.internal.api.databinding.DatabindingMode;
 
 /**
  * 用来存储配置文件中的信息

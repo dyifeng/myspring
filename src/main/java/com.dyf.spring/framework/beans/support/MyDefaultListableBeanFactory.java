@@ -1,6 +1,6 @@
-package framework.beans.support;
+package com.dyf.spring.framework.beans.support;
 
-import framework.beans.config.MyBeanDefinition;
+import com.dyf.spring.framework.beans.config.MyBeanDefinition;
 import framework.context.support.MyAbstractApplicationContext;
 
 import java.util.Map;

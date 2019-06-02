@@ -1,4 +1,4 @@
-package framework.beans;
+package com.dyf.spring.framework.beans;
 
 /**
  * 单例工厂的顶层设计

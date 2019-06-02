@@ -1,6 +1,6 @@
-package framework.beans.support;
+package com.dyf.spring.framework.beans.support;
 
-import framework.beans.config.MyBeanDefinition;
+import com.dyf.spring.framework.beans.config.MyBeanDefinition;
 
 import java.io.File;
 import java.io.IOException;
