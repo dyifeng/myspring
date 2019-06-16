@@ -41,6 +41,10 @@ public class MyBeanDefinitionReader {
         doScanner(config.getProperty(SCAN_PACKAGE));
     }
 
+    public Properties getConfig() {
+        return config;
+    }
+
     //扫描解析
     private void doScanner(String scanPackage) {
         // 转换为文件路径，实际上就是把.替换为/ 就好了
